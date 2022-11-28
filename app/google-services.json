@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66598736",
+    "project_id": "dmovie-d7cf8",
+    "storage_bucket": "dmovie-d7cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66598736:android:5d7771cc05407e13265e55",
+        "android_client_info": {
+          "package_name": "com.debora.dmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66598736-fpdadl86ujefroqe9v14advk5nfa9ofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoDekzqjIWAHVwTgvB1oOWhpGZ-o31js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66598736-fpdadl86ujefroqe9v14advk5nfa9ofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
