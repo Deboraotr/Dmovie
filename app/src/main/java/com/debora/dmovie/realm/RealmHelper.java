@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import io.realm.Realm;
 import io.realm.RealmResults;
 
-/**
- * Created by Azhar Rivaldi on 22-12-2019.
- */
+
 
 public class RealmHelper {
 

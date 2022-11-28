@@ -1,8 +1,6 @@
 package com.debora.dmovie.networking;
 
-/**
- * Created by No Way Home Group on 02-01-2022.
- */
+
 
 public class ApiEndpoint {
 
